@@ -9,7 +9,7 @@
 ## Features:
 * Landing page with particles background
 * Box with social links
-![box](img/image.png)
+![box](https://cloud-dhhet0ezy-hack-club-bot.vercel.app/0image.png)
 
 
 * About Me section
